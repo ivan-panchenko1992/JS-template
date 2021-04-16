@@ -1,0 +1,28 @@
+{
+  "name": "JS-template",
+  "version": "1.0.0",
+  "description": "Template for JS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ivan-panchenko1992/JS-template.git"
+  },
+  "keywords": [
+    "template",
+    "boilerplate",
+    "html",
+    "scss",
+    "javascript",
+    "parcel",
+    "eslint"
+  ],
+  "author": "ivan-panchenko1992",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ivan-panchenko1992/JS-template/issues"
+  },
+  "homepage": "https://github.com/ivan-panchenko1992/JS-template#readme"
+}
