@@ -7,7 +7,8 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "build": "parcel build --out-dir dist --public-url ./ ./src/index.html",
     "lint": "eslint ./src",
-    "lint:fix": "eslint ./src --fix"
+    "lint:fix": "eslint ./src --fix",
+    "start": "parcel serve ./src/index.html --open"
   },
   "repository": {
     "type": "git",
